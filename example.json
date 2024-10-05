@@ -1,0 +1,136 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Mpox in Burundi: On the frontline of the fight to halt the spread",
+      "description": "Cases are rising in Burundi as the virus moves from neighbouring Democratic Republic of Congo.",
+      "url": "https://www.bbc.co.uk/news/articles/cly3xzdq909o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d68d/live/9b7bb830-6171-11ef-b43e-6916dcba5cbf.jpg",
+      "publishedAt": "2024-08-24T02:52:13.8789233Z",
+      "content": "Egide Irambona, 40, sits bare-chested on his hospital bed, next to the window, in a treatment room that he shares with two other men.\r\nThe rays of the evening sun shining above Burundis main city, Bu… [+1706 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "NT Australian election: Pet crocodile ban in the spotlight",
+      "description": "The Northern Territory is one of the last places in the country crocodiles can be kept as pets.",
+      "url": "https://www.bbc.co.uk/news/articles/c8rxyz1p830o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b83a/live/203d6470-6135-11ef-b43e-6916dcba5cbf.jpg",
+      "publishedAt": "2024-08-24T02:22:09.8203165Z",
+      "content": "Having a pet crocodile in the backyard sounds like a far-fetched Australian fable like riding kangaroos to school or the existence of drop bears.\r\nBut in the Northern Territory (NT), its a reality.\r\n… [+1806 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "The Bachelor: How a double amputee became Ukraine's most desirable man",
+      "description": "So many women applied to appear beside Oleksandr Budko on The Bachelor that the show's website crashed.",
+      "url": "https://www.bbc.co.uk/news/articles/clywj08d89no",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c169/live/cc1cdeb0-607c-11ef-8c32-f3c2bc7494c6.jpg",
+      "publishedAt": "2024-08-24T01:22:09.8213516Z",
+      "content": "Oleksandr is always on the go, telling me he spent the previous night filming a music video.\r\nHis life wasnt always like this. In the years before Russia's full-scale invasion, he was working as a ba… [+1293 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Boeing 737 Max: Electrical problems hidden, say campaigners",
+      "description": "A campaign group has accused Boeing of concealing information about electrical problems on a plane.",
+      "url": "https://www.bbc.co.uk/news/articles/cwy3lxqlwl1o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5122/live/a4d7f380-6162-11ef-ad84-69850814563e.jpg",
+      "publishedAt": "2024-08-23T23:07:18.1750209Z",
+      "content": "According to the foundation, among the apparent issues indicated by the documents are a lack of electrical parts, missing and improperly installed wiring, and employees being placed under extreme pre… [+2764 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Germany: Several reported killed in knife attack in Solingen",
+      "description": "A man randomly stabbed passers-by during a festival in the city of Solingen, German media report.",
+      "url": "https://www.bbc.co.uk/news/articles/cd73292p1vpo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+      "publishedAt": "2024-08-23T21:52:22.1284882Z",
+      "content": "A number of people are reported to have been killed in a knife attack in the western German city of Solingen, local media say.\r\nBild website says a man randomly stabbed passers-by during a festival i… [+281 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Jermaine Jenas says he is ashamed after BBC sacking",
+      "description": "The former Match of the Day and One Show presenter admitted sending \"inappropriate messages\" to colleagues.",
+      "url": "https://www.bbc.co.uk/news/articles/cy9enw5xp2qo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6669/live/97b70280-6186-11ef-8c32-f3c2bc7494c6.jpg",
+      "publishedAt": "2024-08-23T20:52:13.6900945Z",
+      "content": "He told the Sun the texts were a \"huge error of judgement\" for which he was \"deeply sorry\", adding that he was \"not a sex pest\".\r\nJenas, who is married with four children, told the paper he is receiv… [+1075 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Democrats are riding high - but victory is far from certain",
+      "description": "After a jubilant party convention capped a month of momentum, polls still suggest a close election.",
+      "url": "https://www.bbc.co.uk/news/articles/cgl21j2py8xo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3bb0/live/698db680-618e-11ef-b970-9f202720b57a.jpg",
+      "publishedAt": "2024-08-23T20:52:12.0811211Z",
+      "content": "\"I really do believe Kamala Harris is going to win,\" he said, a few hours before Harris took to the stage. \"That doesn't mean I'm not nervous.\"\r\nThe regional organiser from the city of Savannah said … [+1725 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "RFK Jr suspends campaign to 'throw support' behind Trump",
+      "description": "The third-party candidate said he no longer has \"a realistic path to victory in the face of systematic censorship\".",
+      "url": "https://www.bbc.co.uk/news/articles/cwy5ekxlwzgo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cc10/live/a8a46930-6180-11ef-8c59-8955ba72b898.png",
+      "publishedAt": "2024-08-23T19:52:13.3366127Z",
+      "content": "The decision effectively brings to an end a campaign fuelled by Mr Kennedy's anti-vax views, and coloured by stories of dead bears and brain worms. His polling has slumped from a high of double figur… [+862 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Cucumber TikTok trend blamed for hit to Iceland's supply",
+      "description": "One supermarket says demand has more than doubled, after viral videos promote unique recipes.",
+      "url": "https://www.bbc.co.uk/news/articles/clyw04e297po",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8e0b/live/dfca7390-6136-11ef-bde7-4fd43dc8559b.jpg",
+      "publishedAt": "2024-08-23T17:52:14.6128708Z",
+      "content": "SFG's marketing director said that as things stand farmers in Iceland are not managing to keep up with surging consumer demand, but said she hopes supply will be back to normal \"in a week or so\".\r\nKr… [+1186 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Tributes to Mike and Hannah Lynch as family speak of shock",
+      "description": "The final body from the Bayesian yacht, believed to be Mike Lynch's daughter Hannah, is recovered.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gzk4r8293o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f740/live/1a780fe0-6162-11ef-b970-9f202720b57a.png",
+      "publishedAt": "2024-08-23T16:52:16.0495159Z",
+      "content": "Family and friends paid tribute to Mr Lynch, who helped pioneer a form of artificial intelligence, and his daughter, who had just won a place at the University of Oxford.\r\n\"Mike was the most brillian… [+681 chars]"
+    }
+  ]
+}
