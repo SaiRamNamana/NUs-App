@@ -1,5 +1,5 @@
 import React from 'react'
-import loading from '/home/rguktogole/Downloads/React/newsapp/src/loading.gif'
+import loading from './loading.gif'
 const Spinner = () => {
     return (
       <div className="text-center">

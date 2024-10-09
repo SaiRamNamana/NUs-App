@@ -1,6 +1,6 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import "./App.css";
-import LoadingBar from "react-top-loading-bar";
+import LoadusgBar from "react-top-loading-bar";
 import React, { useState } from "react";
 import Navbar from "./Components/Navbar";
 import News from "./Components/News";
@@ -13,7 +13,7 @@ const App = () => {
       <div>
         <BrowserRouter>
           <Navbar />
-          <LoadingBar color="#f11946" progress={progress} height={3}/>
+          <LoadusgBar color="#f11946" progress={progress} height={3}/>
           <Routes>
             <Route
               exact
@@ -22,7 +22,7 @@ const App = () => {
                 <News setProgress={setProgress}
                   key="general"
                   pageSize={pagesize}
-                  country="in"
+                  country="us"
                   category="general"
                   apikey={apikey}
                 />
@@ -30,26 +30,26 @@ const App = () => {
             />
             <Route
               exact
-              path="/business"
+              path="/bususess"
               element={
                 <News setProgress={setProgress}
-                  key="business"
+                  key="bususess"
                   pageSize={pagesize}
-                  country="in"
-                  category="business"
+                  country="us"
+                  category="bususess"
                   apikey={apikey}
                 />
               }
             />
             <Route
               exact
-              path="/entertainment"
+              path="/entertausment"
               element={
                 <News setProgress={setProgress}
-                  key="entertainment"
+                  key="entertausment"
                   pageSize={pagesize}
-                  country="in"
-                  category="entertainment"
+                  country="us"
+                  category="entertausment"
                   apikey={apikey}
                 />
               }
@@ -61,7 +61,7 @@ const App = () => {
                 <News setProgress={setProgress}
                   key="health"
                   pageSize={pagesize}
-                  country="in"
+                  country="us"
                   category="health"
                   apikey={apikey}
                 />
@@ -74,7 +74,7 @@ const App = () => {
                 <News setProgress={setProgress}
                   key="science"
                   pageSize={pagesize}
-                  country="in"
+                  country="us"
                   category="science"
                   apikey={apikey}
                 />
@@ -87,7 +87,7 @@ const App = () => {
                 <News setProgress={setProgress}
                   key="sports"
                   pageSize={pagesize}
-                  country="in"
+                  country="us"
                   category="sports"
                   apikey={apikey}
                 />
@@ -101,7 +101,7 @@ const App = () => {
                 <News setProgress={setProgress}
                   key="technology"
                   pageSize={pagesize}
-                  country="in"
+                  country="us"
                   category="technology"
                   apikey={apikey}
                 />
